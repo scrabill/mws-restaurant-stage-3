@@ -1,4 +1,7 @@
 # Local Development API Server
+
+> Note: This repo is a copy of the one provided by Udacity. My version of the app can be found [here](https://github.com/scrabill/mws-restaurant-stage-1).
+
 ## Usage
 #### Get Restaurants
 ```
